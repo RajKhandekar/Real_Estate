@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Green Valley Apartments",
+    "price": "78,500",
+    "detail": "Baner Road, Baner, Pune, Maharashtra",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Palm Springs Residence",
+    "price": "95,000",
+    "detail": "Andheri West, Mumbai, Maharashtra",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Seaside Harmony",
+    "price": "63,750",
+    "detail": "Palm Beach Road, Vashi, Navi Mumbai, Maharashtra",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Valley Apartments",
+    "price": "78,500",
+    "detail": "Akurdi Road, Akurdi, Pune, Maharashtra",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nadda Residence",
+    "price": "95,000",
+    "detail": "Nerul, Mumbai, Maharashtra",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sudharshan Residence",
+    "price": "63,750",
+    "detail": "Vashi, Navi Mumbai, Maharashtra",
+    "image": "./r3.png"
+  }
+]
